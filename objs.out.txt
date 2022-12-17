@@ -1,0 +1,27 @@
+Objects: 
+
+Name: cone
+Color: magenta  Base Color: black
+Location: x: -6.5 y: 1.8 z: 3.7
+Volume: 12.5664
+
+Name: sphere
+Color: purple
+Location: x: 4 y: 3 z: 5
+Volume: 1436.75
+
+Name: cone
+Color: green  Base Color: gold
+Location: x: -3.2 y: -1.5 z: 2
+Volume: 57.2686
+
+Name: box
+Side Color: yellow  Top/Base Color: blue
+Location: x: 8.2 y: 0 z: 3.9
+Volume: 13.23
+
+Name: sphere
+Color: red
+Location: x: 0 y: 0 z: 10
+Volume: 113.097
+
